@@ -1,0 +1,10 @@
+{
+    "require": {
+        "stripe/stripe-php": "*",
+        "ecomphp/tiktokshop-php": "^2.3",
+        "monolog/monolog": "^3.6"
+    },
+    "require-dev": {
+        "symfony/symfony": "^7.0"
+    }
+}
